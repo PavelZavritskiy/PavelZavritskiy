@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavelZavritskiy)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/zavrik127)
+
 🔥 **Бывший спасатель → нынешний фронтенд-разработчик.**  
 Да, я учился на техника-спасателя. Нет, я не ношу каску на работу (пока).  
 Но если после моего прихода в команду ваш KPI вырастит в 1000 раз — я готов оказать первую помощь. 😄
